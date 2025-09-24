@@ -22,7 +22,7 @@ price_min = st.sidebar.number_input("Minimum Price ($)", min_value=0, value=0)
 price_max = st.sidebar.number_input("Maximum Price ($)", min_value=0, value=1000)
 st.sidebar.markdown("---")
 st.sidebar.markdown(
-    "[GitHub Repository](https://github.com/YOURUSERNAME/phone-chatbot)",
+    "[GitHub Repository](https://github.com/mouni-3012/phone-chatbot)",
     unsafe_allow_html=True
 )
 
@@ -31,7 +31,7 @@ st.sidebar.markdown(
 # -------------------------------------------------------------
 @st.cache_data
 def load_data():
-    return pd.read_csv("phones.csv")
+    return pd.read_csv("phonesdata.csv")
 
 phones = load_data()
 
