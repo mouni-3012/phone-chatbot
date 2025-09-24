@@ -1,1 +1,151 @@
-
+Phone,Model,Cost,Refurbished,New,Used
+Samsung,Galaxy S21,231,No,Yes,No
+Apple,iPhone 14 Pro,684,No,Yes,No
+Samsung,Galaxy S21,871,No,No,Yes
+Apple,iPhone 13 Pro,215,No,No,Yes
+Apple,iPhone 14 Pro,500,Yes,No,No
+Apple,iPhone 13,246,Yes,No,No
+Apple,iPhone 14,778,No,No,Yes
+Samsung,Galaxy S21 Ultra,822,No,No,Yes
+Samsung,Galaxy S20,901,Yes,No,No
+Samsung,Galaxy S22 Ultra,690,No,No,Yes
+Apple,iPhone 12 Pro,391,No,No,Yes
+Apple,iPhone 12 Pro,216,Yes,No,No
+Apple,iPhone 12 Pro,352,No,Yes,No
+Apple,iPhone 13 Pro,950,No,No,Yes
+Apple,iPhone 14 Pro,1112,No,Yes,No
+Samsung,Galaxy S21,474,No,Yes,No
+Apple,iPhone 12,431,Yes,No,No
+Apple,iPhone 14 Pro,367,No,Yes,No
+Apple,iPhone 14 Pro,730,No,No,Yes
+Samsung,Galaxy S22,949,No,Yes,No
+Apple,iPhone 12,887,Yes,No,No
+Apple,iPhone 12,821,No,Yes,No
+Apple,iPhone 14 Pro,240,Yes,No,No
+Samsung,Galaxy S21 Ultra,572,Yes,No,No
+Samsung,Galaxy S22,833,Yes,No,No
+Samsung,Galaxy S21 Ultra,894,Yes,No,No
+Apple,iPhone 12,882,No,No,Yes
+Apple,iPhone 13,771,Yes,No,No
+Apple,iPhone 12 Pro,950,No,Yes,No
+Apple,iPhone 13 Pro,512,Yes,No,No
+Apple,iPhone 13,864,No,No,Yes
+Apple,iPhone 12,336,No,No,Yes
+Samsung,Galaxy S21,1184,No,Yes,No
+Samsung,Galaxy S21,947,No,Yes,No
+Samsung,Galaxy S22,697,Yes,No,No
+Samsung,Galaxy S21,694,No,No,Yes
+Apple,iPhone 12,1131,No,Yes,No
+Apple,iPhone 14,627,Yes,No,No
+Samsung,Galaxy S22 Ultra,618,No,Yes,No
+Samsung,Galaxy S20,1144,Yes,No,No
+Samsung,Galaxy S22 Ultra,605,Yes,No,No
+Samsung,Galaxy S23,936,No,No,Yes
+Samsung,Galaxy S21 Ultra,1030,No,Yes,No
+Apple,iPhone 13 Pro,414,Yes,No,No
+Apple,iPhone 14 Pro,867,No,Yes,No
+Apple,iPhone 14,1143,No,No,Yes
+Samsung,Galaxy S20,622,No,Yes,No
+Apple,iPhone 13 Pro,763,No,Yes,No
+Samsung,Galaxy S23,1199,No,Yes,No
+Samsung,Galaxy S21 Ultra,1147,Yes,No,No
+Apple,iPhone 14,381,No,No,Yes
+Apple,iPhone 12,973,Yes,No,No
+Apple,iPhone 13 Pro,1124,No,No,Yes
+Samsung,Galaxy S22 Ultra,283,No,Yes,No
+Apple,iPhone 13,1156,No,Yes,No
+Samsung,Galaxy S20,880,No,No,Yes
+Apple,iPhone 12 Pro,221,Yes,No,No
+Apple,iPhone 12,1200,No,Yes,No
+Apple,iPhone 14,456,No,Yes,No
+Samsung,Galaxy S23,572,No,No,Yes
+Apple,iPhone 14,402,Yes,No,No
+Apple,iPhone 14,250,No,No,Yes
+Samsung,Galaxy S21 Ultra,524,Yes,No,No
+Apple,iPhone 14 Pro,754,Yes,No,No
+Samsung,Galaxy S20,474,No,No,Yes
+Apple,iPhone 14,309,No,No,Yes
+Samsung,Galaxy S21 Ultra,908,Yes,No,No
+Apple,iPhone 13 Pro,619,Yes,No,No
+Samsung,Galaxy S20,387,No,No,Yes
+Samsung,Galaxy S21 Ultra,1152,Yes,No,No
+Samsung,Galaxy S22,567,No,Yes,No
+Samsung,Galaxy S23,901,No,Yes,No
+Apple,iPhone 13 Pro,872,No,Yes,No
+Apple,iPhone 13,741,Yes,No,No
+Samsung,Galaxy S21 Ultra,650,No,No,Yes
+Samsung,Galaxy S23,686,No,No,Yes
+Apple,iPhone 13 Pro,284,Yes,No,No
+Apple,iPhone 13 Pro,745,No,No,Yes
+Samsung,Galaxy S22 Ultra,232,No,No,Yes
+Apple,iPhone 14,1028,No,Yes,No
+Samsung,Galaxy S22,606,Yes,No,No
+Apple,iPhone 14,897,No,No,Yes
+Samsung,Galaxy S23,1014,Yes,No,No
+Samsung,Galaxy S21 Ultra,1052,No,No,Yes
+Apple,iPhone 13 Pro,661,No,No,Yes
+Samsung,Galaxy S21 Ultra,535,No,Yes,No
+Samsung,Galaxy S20,1079,No,Yes,No
+Samsung,Galaxy S20,933,No,Yes,No
+Apple,iPhone 14,791,No,Yes,No
+Samsung,Galaxy S23,837,Yes,No,No
+Samsung,Galaxy S23,1017,Yes,No,No
+Apple,iPhone 13 Pro,201,No,No,Yes
+Apple,iPhone 14,871,No,Yes,No
+Apple,iPhone 14,451,Yes,No,No
+Samsung,Galaxy S22 Ultra,954,Yes,No,No
+Samsung,Galaxy S23,540,Yes,No,No
+Apple,iPhone 13,248,Yes,No,No
+Samsung,Galaxy S20,424,Yes,No,No
+Samsung,Galaxy S21,296,Yes,No,No
+Apple,iPhone 12,650,No,No,Yes
+Samsung,Galaxy S22 Ultra,802,No,Yes,No
+Samsung,Galaxy S23,862,No,Yes,No
+Apple,iPhone 12 Pro,943,No,Yes,No
+Apple,iPhone 14 Pro,706,Yes,No,No
+Apple,iPhone 14 Pro,820,No,Yes,No
+Samsung,Galaxy S21,560,No,Yes,No
+Apple,iPhone 12 Pro,410,Yes,No,No
+Apple,iPhone 14,949,Yes,No,No
+Apple,iPhone 14,516,Yes,No,No
+Apple,iPhone 12,1038,No,Yes,No
+Apple,iPhone 13 Pro,1065,Yes,No,No
+Samsung,Galaxy S21 Ultra,514,Yes,No,No
+Apple,iPhone 13,1060,No,Yes,No
+Apple,iPhone 12 Pro,299,No,No,Yes
+Samsung,Galaxy S21 Ultra,306,No,No,Yes
+Samsung,Galaxy S22 Ultra,688,No,Yes,No
+Samsung,Galaxy S20,788,Yes,No,No
+Samsung,Galaxy S21,304,Yes,No,No
+Apple,iPhone 13,891,No,Yes,No
+Samsung,Galaxy S22,699,No,No,Yes
+Apple,iPhone 12,556,No,Yes,No
+Samsung,Galaxy S22 Ultra,938,No,Yes,No
+Samsung,Galaxy S20,838,Yes,No,No
+Apple,iPhone 13,765,Yes,No,No
+Apple,iPhone 13,1154,Yes,No,No
+Apple,iPhone 12,832,Yes,No,No
+Samsung,Galaxy S22,284,No,Yes,No
+Apple,iPhone 14 Pro,604,No,No,Yes
+Samsung,Galaxy S22,283,Yes,No,No
+Samsung,Galaxy S21,597,Yes,No,No
+Apple,iPhone 12 Pro,371,Yes,No,No
+Apple,iPhone 13,490,Yes,No,No
+Apple,iPhone 13,923,No,Yes,No
+Samsung,Galaxy S21,923,Yes,No,No
+Apple,iPhone 13,582,No,Yes,No
+Samsung,Galaxy S22,820,No,No,Yes
+Apple,iPhone 14,227,No,No,Yes
+Apple,iPhone 12 Pro,458,No,No,Yes
+Samsung,Galaxy S20,846,No,Yes,No
+Apple,iPhone 12,953,Yes,No,No
+Apple,iPhone 14,1134,Yes,No,No
+Samsung,Galaxy S20,343,No,Yes,No
+Apple,iPhone 14,1061,No,Yes,No
+Apple,iPhone 14 Pro,1185,No,No,Yes
+Apple,iPhone 14 Pro,1085,Yes,No,No
+Apple,iPhone 12,448,No,Yes,No
+Samsung,Galaxy S20,692,No,No,Yes
+Samsung,Galaxy S20,747,No,Yes,No
+Samsung,Galaxy S22 Ultra,1052,No,Yes,No
+Samsung,Galaxy S23,1119,No,No,Yes
